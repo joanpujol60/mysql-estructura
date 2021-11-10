@@ -1,0 +1,1 @@
+CREATE TABLE `optica`.`empleats` ( `id` INT NOT NULL AUTO_INCREMENT , `codi` INT NOT NULL , `nom` VARCHAR(100) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB; 
